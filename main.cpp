@@ -2,24 +2,11 @@
 #include <iostream>
 using namespace std;
 int main() {
-    // if逻辑判断
-    /*
-     * if(condition){
-     * }
-     *
-     * if(condition){
-     * }else{
-     * }
-     *
-     * if(condition){
-     * }else if(condition){
-     * }else{
-     * }
-     *
-     * 注意：if允许多层嵌套
-     *
-     * 接下来是p47, switch语句
-     */
+    // 解决中文乱码问题
+    system("chcp 65001");
+
+    // 接下来该 p71, 指针
+
     return 0;
 }
 
